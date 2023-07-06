@@ -36,7 +36,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
 
-keepapi:
+thirdflutter:
 git:
 url: git@github.com:rafeysup93/thirdflutter.git
 ref: ddaa88ceb7003fa8c4faf47319f94f0fadcb6acf
